@@ -1,8 +1,7 @@
 {
-  "name": "attila",
+  "name": "r2d4",
   "description": "Ghost Theme",
-  "demo": "http://attila.zutrinken.com",
-  "version": "1.7.5",
+  "version": "1.7.8",
   "engines": {
     "ghost": ">=2.1.0"
   },
@@ -12,9 +11,9 @@
     "mobile": "src/screenshot-mobile.jpg"
   },
   "author": {
-    "name": "Peter Amende",
-    "email": "xoxo@zutrinken.com",
-    "url": "http://zutrinken.com"
+    "name": "Matt Rickard",
+    "email": "m@rickard.email",
+    "url": "http://matt-rickard.com"
   },
   "gpm": {
     "type": "theme",
@@ -30,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/r2d4/attila.git"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",
